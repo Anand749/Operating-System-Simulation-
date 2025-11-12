@@ -1,0 +1,82 @@
+*                                       
+*   *                                   
+*   *   *                               
+*   *                                   
+JOB ID: 0202
+Line Limit Exceeded Error : Terminate(2)
+IC: 15
+IR: PD60
+TTC: 0015
+LLC: 0004
+
+JOB ID: 0302
+Out Of Data Error : Terminate(1)
+IC: 2
+IR: GD30
+TTC: 0001
+LLC: 0000
+
+JOB ID: 0102
+Invalid Page Fault Error : Terminate(6)
+IC: 2
+IR: LR36
+TTC: 0001
+LLC: 0000
+
+ABCD                                    
+ABCD                                    
+MATCH                                   
+JOB ID: 0401
+Time Limit Exceeded Error : Terminate(3)
+IC: 11
+IR: PD50
+TTC: 0010
+LLC: 0003
+
+JOB ID: 1503
+Operand Error : Terminate(5)
+IC: 4
+IR: SR7A
+TTC: 0003
+LLC: 0000
+
+JOB ID: 1403
+Operation Code Error : Terminate(4)
+IC: 9
+IR: PA30
+TTC: 0008
+LLC: 0000
+
+JOB ID: 1403
+Out Of Data Error : Terminate(1)
+IC: 1
+IR: GD30
+TTC: 0000
+LLC: 0000
+
+SHE SELLS   SEA SHELLS ON               
+JOB ID: 0402
+Time Limit Exceeded Error : Terminate(3)
+Operand Error : Terminate(5)
+IC: 5
+IR: PD3F
+TTC: 0004
+LLC: 0001
+
+SHE SELLS   SEA SHELLS ON               
+JOB ID: 0403
+Time Limit Exceeded Error : Terminate(3)
+Operation Code Error : Terminate(4)
+IC: 5
+IR: PS40
+TTC: 0004
+LLC: 0001
+
+SHE SELLS   SEA SHELLS ON               
+JOB ID: 0405
+Time Limit Exceeded Error : Terminate(3)
+IC: 4
+IR: SR32
+TTC: 0003
+LLC: 0001
+
